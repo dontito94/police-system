@@ -1,0 +1,51 @@
+ html, body {
+                height: 100%;
+            }
+
+            body {
+                margin:0;
+                 padding: 0;
+                width: 100%;
+                display: table;
+                font-weight: 100;
+                font-family: 'Lato';
+                background-color: ;
+            }
+
+.navbar-default{
+  margin-bottom: 0px;
+}
+.navbar-default{
+  margin-bottom: 0px;
+  padding: 10px;
+}
+.navbar-default li a{
+  font-size: 1.5em;
+  margin-left: 40px;
+
+}
+.navbar-default li{
+	display: inline;
+}
+
+
+           
+
+            .title {
+                font-size: 96px;
+            }
+
+            .img{
+            	height: 100px;
+            	width: 100px;
+            	margin-left: 110px;
+            }
+            .img1{
+            	height: 100px;
+            	width: 150px;
+            	margin-left: 180px;
+	            	}
+	        .img2{
+	        	width: 250px;
+	        
+	        }
